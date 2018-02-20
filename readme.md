@@ -1,5 +1,7 @@
 # apply-until
 
+call an async function with n arguments until success
+
 ## install
 ```sh
 pnpm install michaelrhodes/apply-until#1.0.0
